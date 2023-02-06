@@ -6,6 +6,7 @@ public class Main {
 //        System.out.println(test.firstPerfectSquare(-4));
 //        System.out.println(test.firstPerfectSquare(37));
         System.out.println(test.perfectSquare(342));
+        System.out.println(EcerciseV2.game("paper","rock"));
 
 
     }
